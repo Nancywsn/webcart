@@ -1,0 +1,10 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: webcart
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: 'WSN123wangsinuomysql'
+    username: 'root'
+    url: jdbc:mysql://localhost:3306/test?serverTimezone=UTC
