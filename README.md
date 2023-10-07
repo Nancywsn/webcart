@@ -1,0 +1,3 @@
+# webcart
+用springboot框架写的web购物车后端代码，前端静态资源以文件夹的形式放入static中，用的是Intellij IDEA平台，本地开发，没有部署到云服务器上
+代码运行成功后，从index.html文件进入网页
